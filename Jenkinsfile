@@ -14,8 +14,6 @@ tools{
 
 maven 'localMaven'
 
-jdk 'localJDK'
-
 }
 
 stages{
